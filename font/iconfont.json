@@ -1,0 +1,107 @@
+{
+  "id": "2022230",
+  "name": "shopping",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2674878",
+      "name": "箭头 上",
+      "font_class": "jiantoushang",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "2674929",
+      "name": "箭头 下",
+      "font_class": "jiantouxia",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "363515",
+      "name": "微信",
+      "font_class": "weixin",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "1312057",
+      "name": "微博",
+      "font_class": "weibo",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "1035716",
+      "name": "箭头",
+      "font_class": "jiantou-copy",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "1604034",
+      "name": "切换",
+      "font_class": "qiehuan",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "1616011",
+      "name": "箭头",
+      "font_class": "jiantou",
+      "unicode": "e66f",
+      "unicode_decimal": 58991
+    },
+    {
+      "icon_id": "9257951",
+      "name": "nike logo",
+      "font_class": "nikelogo",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "3050508",
+      "name": "定位",
+      "font_class": "location",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "7363467",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "12186011",
+      "name": "CONVERSE LOGO",
+      "font_class": "CONVERSELOGO",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "12788764",
+      "name": "购物车",
+      "font_class": "gouwuche",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "13328148",
+      "name": "jordan",
+      "font_class": "jordan",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "16602346",
+      "name": "我的消 息",
+      "font_class": "xiaoxi",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    }
+  ]
+}
